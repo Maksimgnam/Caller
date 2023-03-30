@@ -1,7 +1,7 @@
 
 btn.onclick = () => {
 
-    // function makeCall() {
+
 
 
     let phoneNumber = document.getElementById("Input").value;
